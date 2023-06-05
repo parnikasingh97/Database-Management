@@ -1,3 +1,7 @@
+/*
+The data used in this project is for movies which includes 16 tables containing information on customers, business, and inventories. 
+*/
+
 /* 
 1. Extracting location of the store and the information on the managers.  
 */ 
